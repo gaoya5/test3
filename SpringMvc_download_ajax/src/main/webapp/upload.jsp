@@ -6,7 +6,7 @@
 		<title>Insert title here</title>
 	</head>
 	<body>
-		helloworld 
+		000000 
 		<input type="file" name="myfile" id="myfile" /><br>
 		<button id="upload">上传</button><br>
 		<div id="files"></div>
